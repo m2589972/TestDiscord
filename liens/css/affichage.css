@@ -1,0 +1,65 @@
+
+
+
+/* ******************************************************************************************* */
+/* page_test_messages_robot.php */
+
+.liste_messages li
+{
+	display : flex;
+}
+
+.liste_messages .date
+{
+	display : inline-block;
+	width : 9em;
+}
+.liste_messages .auteur
+{
+	display : inline-block;
+	width : 14em;
+}
+
+
+/* ******************************************************************************************* */
+/* global */
+
+p
+{
+	text-align : justify;
+}
+
+.numerotation
+{
+	color : #999;
+}
+
+.liste_simple
+{
+	padding : initial;
+	padding-inline-start : 2em;
+}
+.liste_simple li
+{
+	list-style : initial;
+}
+
+
+/* ******************************************************************************************* */
+/* messages */
+
+.message.bon
+{
+	color : #0A0;
+}
+
+.message.erreur
+{
+	color : #A00;
+}
+
+
+/* ******************************************************************************************* */
+/* ******************************************************************************************* */
+
+
