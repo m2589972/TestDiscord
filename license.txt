@@ -1,5 +1,0 @@
-
-Le contenu du répertoire "donnees/classes" est sous la licence indiquée dans le fichier "donnees/classes/LICENSE.md".
-
-Le reste du code est dans le domaine public.
-
