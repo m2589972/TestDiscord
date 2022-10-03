@@ -13,5 +13,5 @@ Parmis les exemples :
 Je rajoute un conseil pour les développeurs : organisez votre code en faisant un effort pour bien séparer chaque partie. Discord est une entreprise donc son but premier est de gagner de l'argent et non de faciliter la vie de ses clients. Je vous conseille donc de ne pas être dépendant de discord et d'être prêt à modifier votre code si vous trouvez un autre système à utiliser à la place de discord.
 Comme alternative pour les discussions en vidéo, il y a par exemple le logiciel libre Jitsi Meet : https://jitsi.org/jitsi-meet/. Une instance de Jitsi Meet est utilisable là par exemple : https://meet.roflcopter.fr/
 
-[Téléchargez la dernière version de TestDiscord en cliquant ici (version 4 du 14/09/2022)](https://github.com/m2589972/TestDiscord/releases/download/v4/TestDiscord.4.zip)
+[Téléchargez la dernière version de TestDiscord en cliquant ici (version 5 du 03/10/2022)](https://github.com/m2589972/TestDiscord/releases/download/v5/TestDiscord.5.zip)
 
